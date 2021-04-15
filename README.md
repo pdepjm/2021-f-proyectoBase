@@ -1,7 +1,3 @@
-# ejercicio-alumno
+# Proyecto Base
 
-## Integrantes
-
-- integrante1 (usuario github)
-- integrante2 (usuario github)
-...
+Reemplazar por alguna descripción del proyecto.
